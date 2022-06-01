@@ -1,0 +1,1 @@
+{"learning_rate": 0.09621522671014263, "max_depth": 27, "num_leaves": 50, "feature_fraction": 0.9359549207144823, "subsample": 0.8274290680191155, "num_boost_round": 714, "early_stopping_rounds": 70, "lambdarank_truncation_level": 8}

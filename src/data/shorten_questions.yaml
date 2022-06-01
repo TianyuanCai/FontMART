@@ -1,0 +1,47 @@
+rename:
+  Are you currently under the influence of any drugs medications alcohol or other stimulants (e.g. caffeine nicotine) that may affect reading/attention? If yes which?: under_influence
+  Are you currently under the influence of any drugs, medications, alcohol, or other stimulants (e.g., caffeine, nicotine) that may affect reading/attention? If yes, which?: under_influence
+  Can you comment on any strategies you used to complete this study?: toggle_strategy
+  Do you agree with the final font recommendation?: toggle_agree
+  Do you feel comfortable with reading articles written in English?: reading_comfort
+  Do you feel your preferred font would also be your most effective font to read in?: toggle_rec_effectiveness
+  Do you have any other comments about the study, did you find anything confusing?: feedback
+  Do you have normal or corrected vision?: normal_vision
+  Do you read to young children under the age of 6?: read_to_children
+  Do you read to young children, under the age of 6?: read_to_children
+  Do you think you would use the recommended font for reading if you had a choice?: toggle_follow_rec
+  Have you ever been diagnosed with a reading or learning disability (e.g. dyslexia)? If yes which one and how long ago?: reading_disability
+  Have you ever been diagnosed with a reading or learning disability (e.g., dyslexia)? If yes, which one and how long ago?: reading_disability
+  Have you ever been diagnosed with any medical and neurological conditions (macular degeneration diabetes ADD memory disorders LPD dyspraxia etc...) If yes which one/s and how long ago?: medical_condition
+  Have you ever been diagnosed with any medical and neurological conditions (macular degeneration, diabetes, ADD, memory disorders, LPD, dyspraxia, etc...) If yes, which one/s and how long ago?: medical_condition
+  How familiar are you with the recommended font?: toggle_rec_familiarity
+  How hard did you have to work to accomplish your level of performance in the font (toggle) test?: toggle_effort
+  How hurried or rushed was the pace of the font (toggle) test?: toggle_rushed
+  How insecure, discouraged, irritated, stressed, and annoyed were you during the font (toggle) test?: toggle_frustration
+  How mentally demanding was the font (toggle) test?: toggle_mental_exertion
+  How much fun, satisfaction, and enjoyment did you feel during the font (toggle) test?: toggle_enjoyment
+  How often do you read English written articles for leisure or personal interest?: reading4leisure_frequency
+  How often do you read English written articles for work or study?: reading4work_frequency
+  How physically demanding was the font (toggle) test?: toggle_physical_exertion
+  How successful were you in accomplishing what you were asked to do in the font (toggle) test?: toggle_success
+  How would you rate your proficiency as a reader?: reading_proficiency
+  How would you rate your speed as a reader?: reading_speed
+  If your vision is corrected how was it corrected (glasses lenses surgery etc.)?: vision_correction
+  If your vision is corrected, how was it corrected (glasses, lenses, surgery, etc.)?: vision_correction
+  Please describe why you feel this way.: toggle_rec_feedback
+  Please describe you current occupation: occupation
+  Please describe your current surroundings. For example are you indoors/outside by a window under natural or artificial light is the room light/dark is the room small/large?: current_environment
+  Please describe your current surroundings. For example, are you indoors/outside, by a window, under natural or artificial light, is the room light/dark, is the room small/large?: current_environment
+  Please enter your Unique ID: turk_id
+  Please enter your Unique ID:: turk_id
+  What device/s do you read on for leisure or personal interest?: usual_reading_device
+  What device/s do you read on for work or study?: usual_working_device
+  What do you read for leisure or personal interest?: reading4leisure_content
+  What do you read for work or study?: reading4work_content
+  "What do you think about the font that was recommended to you at the end of the task? ": toggle_font_rating
+  What is your age? (in years): age
+  What is your gender?: gender
+  What is your highest attained education level?: education_level
+  What is/are your native language(s): language_native
+  What other languages do you speak?: language_other
+  Which device are you using right now to participate in this study?: current_device

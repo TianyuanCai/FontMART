@@ -1,0 +1,17 @@
+font,The '&'_(ampersand) is traditional style with two enclosed loops.,The '1'_(digit one) has no base.,The '4'_is open.,The bowl of the '6'_meets the vertical.,The bowl of the '9'_meets the vertical.,The bowl of the lower-case 'b'_is a flattened circle or ellipse.,The bowl of the lower-case 'g'_is a flattened circle or ellipse or ellipse.,The centre bar of the upper-case 'R'_meets the vertical.,The centre vertex of the upper-case 'M'_is on the baseline.,The centre vertex of the upper-case 'W'_has two separate serifs.,The end of the lower-case 'e'_tail is horizontal or nearly horizontal.,The leg of the upper-case 'K'_has two serifs.,The leg of the upper-case 'R'_is straight.,The lower-case 'g'_is single-storey (with or without loop).,The stem of the '7'_is straight.,The stem of the lower-case 'a'_is straight.,The tail of the lower-case 'y'_is substantially straight.,The top of the '7'_has no serif or bar.,The top of the lower-case 'q'_has a vertical or slightly angled spur (pointed or flat).,The top of the upper-case 'W'_has three upper terminals.,The top storey of the '3'_is a smooth curve.,The top stroke of the upper-case 'Z'_has no upward-pointing serif.,The upper-case letter 'I'_is plain.,general_The characters have serifs.
+avantgarde,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0
+arial,1,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+avenir_next,1,1,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0
+calibri,1,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0
+franklin_gothic,1,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0
+garamond,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1
+georgia,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1
+helvetica,1,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0
+lato,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0
+merriweather,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+montserrat,1,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+noto_sans,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+open_sans,1,1,0,1,1,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,1,0
+oswald,1,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1,0,1,0
+roboto,1,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+times,1,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1

@@ -1,0 +1,38 @@
+html
+  head
+    title Font Metrics
+    link(
+      rel='stylesheet'
+      href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
+      integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T'
+      crossorigin='anonymous'
+    )
+    link(
+      href="https://fooplugins.github.io/FooTable/compiled/footable.bootstrap.min.css"
+      rel="stylesheet"
+    )
+    script(src="https://code.jquery.com/jquery-3.5.1.js")
+    script(crossorigin="anonymous"
+      integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf"
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js")
+    script(src="https://cdn.jsdelivr.net/npm/opentype.js@latest/dist/opentype.min.js")
+    script(src="https://sdk.amazonaws.com/js/aws-sdk-2.858.0.min.js")
+    script(src="https://fooplugins.github.io/FooTable/compiled/footable.js")
+
+  body
+    nav(class='navbar navbar-light bg-light')
+      a(class='navbar-brand' href='#') Font Metrics
+
+    button(class="btn btn-primary"
+      onclick="exportTableToCSV('font_metrics.csv')"
+      type="button") Download Font Metrics
+
+    svg(height='0px' width='0px')
+      path(d='' id='outlinePath_outer')
+    svg(height='0px' width='0px')
+      path(d='' id='outlinePath_inner')
+    div(id='font-metrics-container')
+    script(type='text/javascript').
+      let font_list = !{font_list}
+    script
+      include ../js/main.js
