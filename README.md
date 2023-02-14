@@ -1,9 +1,5 @@
 # FontMART
 
-Personalized Font Recommendations: Combining ML and Typographic Guidelines to Optimize Readability
-
-This program was developed using LightGBM on GPU. The code below applies more generally to CPU runtime.
-
 ## Usage
 
 ### Docker
